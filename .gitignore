@@ -1,0 +1,14 @@
+# IntelliJ IDEA project files (do not upload these)
+.idea/
+out/
+*.iml
+*.iws
+*.ipr
+
+# Compiled Java output
+*.class
+*.jar
+
+# OS files
+.DS_Store
+Thumbs.db
