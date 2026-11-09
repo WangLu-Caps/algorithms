@@ -17,6 +17,8 @@ with the time and space complexity written in the header comment.
 | 7 | `IsPalindrome.java` | Is a string a palindrome (two pointers + stack) | O(n) | O(1) / O(n) |
 | 8 | `SortStack.java` | Sort a stack using an auxiliary stack | O(n^2) | O(n) |
 | 9 | `MergeTwoSortedLists.java` | Merge two sorted lists (O(1) memory) | O(n+m) | O(1) |
+| 10 | `FindPair.java` | Two pointers: find a pair with a given sum (sorted array) | O(n) | O(1) |
+| 11 | `RemoveDuplicates.java` | Two pointers: remove duplicates from a sorted array | O(n) | O(1) |
 
 ## How to run
 
